@@ -3,7 +3,7 @@ Sector-Return-Violin-Plots
 
 Violin plots for the monthly returns of (US) Sector ETFs
 
-Simple R script to generate the violin plots used in this article on [market returns by sector].
+Simple R script to generate the violin plots used in this article on [market returns by sector][1].
 
 Licensed under the MIT license. 
 
